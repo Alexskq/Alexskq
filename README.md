@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 👋
 
 I'm Alexandre Zoonekynd, I recently finish Le Wagon Bootcamp at Lille, after 10 years working at radiological technologist.
 
