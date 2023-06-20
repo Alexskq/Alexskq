@@ -8,7 +8,7 @@ I'm Alexandre Zoonekynd, I recently finish Le Wagon Bootcamp at Lille, after 10 
 
 
 
-💻  # Skills 💻
+## 💻 Skills 💻
 
 
 - Ruby / Ruby on Rails
