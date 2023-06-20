@@ -10,8 +10,8 @@ I'm Alexandre Zoonekynd, I recently finish Le Wagon Bootcamp at Lille, after 10 
 
 💻  # Skills 💻
 
-- ![ruby](![image](https://github.com/Alexskq/Alexskq/assets/99712753/02cdc813-afa3-4bc5-b8db-75c46cc74f89)
-)Ruby / Ruby on Rails
+- ![image](https://github.com/Alexskq/Alexskq/assets/99712753/ff308491-e9bc-4ba2-b2fe-f62c5586c18b)
+Ruby / Ruby on Rails
 - HTML / CSS
 - JS
 - BootStrap
