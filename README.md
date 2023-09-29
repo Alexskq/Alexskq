@@ -11,7 +11,7 @@ I'm Alexandre Zoonekynd, I recently finish Le Wagon Bootcamp at Lille, after 10 
 ## 💻 Skills 💻
 
 
-- Ruby / Ruby on Rails ![ruby](https://e7.pngegg.com/pngimages/535/618/png-clipart-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-thumbnail.png =30x30)
+- Ruby / Ruby on Rails ![ruby](https://e7.pngegg.com/pngimages/535/618/png-clipart-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-thumbnail.png=30x30)
 - HTML / CSS
 - JS
 - BootStrap
