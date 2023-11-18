@@ -12,6 +12,8 @@ I'm Alexandre Zoonekynd, I recently finish Le Wagon Bootcamp at Lille, after 10 
 
 
 - Ruby / Ruby on Rails
+- Next.JS
+- Tailwind
 - HTML / CSS
 - JS
 - BootStrap
