@@ -1,26 +1,31 @@
-### 👋 Hi there 👋
+###  Hi there, I'm Alex 👋
 
-I'm Alexandre Zoonekynd, I recently finish Le Wagon Bootcamp at Lille, after 10 years working at radiological technologist.
+I'm a 33-year-old developper based in France (Lille), After 10 years as a medical imaging technologist, I decided to give a new direction to my career and pursue my interests in the field that fascinated me: Web development
 
 - 🔭 I’m currently looking for opportunities as Web Developper
-- 🌱 I'm currently improving my skills
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexzoonekynd/) or alexzoonekynd@gmail.com
+- 📚 I'm currently improving my skills
+
+## 🔭 Current Endeavors
+
+I am currently working as a teacher at Le Wagon in Lille, where I teach various concepts of web development and assist students in their journey and the completion of their projects. Here's what I'm currently focused on: 
+
+- I'm exploring different tools and libraries to enhance my skill set.
+- I'm an early riser, always driven and constantly learning in the tech world.
 
 
-
-## 💻 Skills 💻
-
+## 💻 Skills 
 
 - Ruby / Ruby on Rails
 - Next.JS
 - Tailwind
-- HTML / CSS
 - JS
 - BootStrap
-- SQL
+- PostgreSQL
 - Git
 - Figma
 
+## 📫 Contact  
+For a quick response and professional inquiries, reach out via [Linkedin](https://www.linkedin.com/in/alexzoonekynd/) or email at alexzoonekynd@gmail.com
 
 
 
