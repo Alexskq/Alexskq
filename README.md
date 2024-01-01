@@ -18,14 +18,14 @@ Passionate about astronomy and reading, I'm also a trail runner with my dog, str
 
 ## 💻 Skills 
 
-- Ruby / Ruby on Rails
-- Next.JS
-- Tailwind
-- JS
-- BootStrap
-- PostgreSQL
-- Git
-- Figma
+- ```Ruby / Ruby on Rails```
+- ```Next.JS```
+- ```Tailwind```
+- ```JS```
+- ```BootStrap```
+- ```PostgreSQL```
+- ```Git```
+- ```Figma```
 
 ## 📫 Contact  
 For a quick response and professional inquiries, reach out via [Linkedin](https://www.linkedin.com/in/alexzoonekynd/) or email at alexzoonekynd@gmail.com
