@@ -12,7 +12,7 @@ I am currently working as a teacher at Le Wagon in Lille, where I teach various 
 - I'm exploring different tools and libraries to enhance my skill set.
 - I'm an early riser, always driven and constantly learning in the tech world.
 
-## Facts
+## ✨ Facts
 
 Passionate about astronomy and reading, I'm also a trail runner with my dog, striving to maintain balance and peak performance in my professional endeavors.
 
