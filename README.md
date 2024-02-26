@@ -2,6 +2,7 @@
 
 I'm a 34-year-old developper based in France (Lille), After 10 years as a medical imaging technologist, I decided to give a new direction to my career and pursue my interests in the field that fascinated me: Web development
 
+- 🧑‍🏫 Teacher at Le Wagon
 - 🔭 I’m currently looking for opportunities as Web Developper
 - 📚 I'm currently improving my skills
 
