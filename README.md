@@ -20,6 +20,7 @@ Passionate about astronomy and reading, I'm also a trail runner with my dog, str
 ## 💻 Skills 
 
 - ```Ruby / Ruby on Rails```
+- ```React```
 - ```Next.JS```
 - ```Tailwind```
 - ```JS```
