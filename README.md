@@ -9,7 +9,7 @@ I'm a 34-year-old developper based in France (Lille), After 10 years as a medica
 
 ## 🔭 Current Endeavors
 
-I am currently working as a teacher at Le Wagon in Lille, where I teach various concepts of web development and assist students in their journey and the completion of their projects. Here's what I'm currently focused on: 
+I am currently working as a Teacher at Le Wagon in Lille, where I teach various concepts of web development and assist students in their journey and the completion of their projects. Here's what I'm currently focused on: 
 
 - I'm exploring different tools and libraries to enhance my skill set.
 - I'm an early riser, always driven and constantly learning in the tech world.
