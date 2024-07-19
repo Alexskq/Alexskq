@@ -1,7 +1,7 @@
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1660415347/60611/waving-hand.gif?1660415347" style="width:40px;height:40px"/> Hi there, I'm Alex !</h1>
 
 
-I'm a 34-year-old developper based in France (Lille), After 10 years as a medical imaging technologist, I decided to give a new direction to my career and pursue my interests in the field that fascinated me: Web development !
+I'm a web developper based in France (Lille), After 10 years, I decided to give a new direction to my career and pursue my interests in the field that fascinated me: Web development !
 
 - 🧑‍🏫 Teacher at Le Wagon
 - 🔭 I’m currently looking for opportunities as Web Developper
