@@ -3,7 +3,7 @@
 
 I'm a Web developper based in France (Lille), Recently, I decided to give a new direction to my career and pursue my interests in the field that fascinated me: Web development !
 
-- 🧑‍🏫 Teacher at Le Wagon ![Le Wagon](https://img.shields.io/badge/cdn.brandfetch.io/iduHcppxLh/theme/dark/logo.svg?k=bfHSJFAPEG?style=for-the-badge&logo=Le-Wagon&logoColor=white) 
+- 🧑‍🏫 Teacher at Le Wagon ![Le Wagon](https://img.shields.io/badge/cdn.brandfetch.io/iduHcppxLh/theme/dark/logo.svg?k=bfHSJFAPEG?style=for-the-badge&logo=Le-Wagon&logoColor=white)
 - 🔭 I’m currently looking for opportunities as Web Developper
 - 📚 I'm currently improving my skills
 
