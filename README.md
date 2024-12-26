@@ -40,8 +40,12 @@ For a quick response and professional inquiries, reach out via [![LinkedIn](http
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alexskq&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexskq&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Alexskq&icon=10&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Alexskq&icon=10&color=1)](https://visitcount.itsvg.in) 
+<a href="https://gitquest.dev/player/Alexskq" target="_blank">
+<img src="https://img.shields.io/badge/GitQuest%20Winner-2nd Place-c0c0c0" alt="GitQuest Winner">
+</a>
 
 
 
