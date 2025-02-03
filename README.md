@@ -44,13 +44,16 @@ For a quick response and professional inquiries, reach out via [![LinkedIn](http
 ---
 [![](https://visitcount.itsvg.in/api?id=Alexskq&icon=10&color=1)](https://visitcount.itsvg.in) 
 <a href="https://gitquest.dev/player/Alexskq" target="_blank">
+<img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
+</a>
+
+[![](https://visitcount.itsvg.in/api?id=Alexskq&icon=10&color=1)](https://visitcount.itsvg.in) 
+<a href="https://gitquest.dev/player/Alexskq" target="_blank">
 <img src="https://img.shields.io/badge/GitQuest%20Winner-2nd Place-c0c0c0" alt="GitQuest Winner">
 </a>
 
 
-<a href="https://gitquest.dev/player/Alexskq" target="_blank">
-<img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
-</a>
+
 
 
 
