@@ -48,5 +48,10 @@ For a quick response and professional inquiries, reach out via [![LinkedIn](http
 </a>
 
 
+<a href="https://gitquest.dev/player/Alexskq" target="_blank">
+<img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
+</a>
+
+
 
 
